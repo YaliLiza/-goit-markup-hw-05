@@ -867,12 +867,8 @@
                     background-color:#404bbf;
                     border: none;
                     fill: var(--color2);
-                    
                 }
- 
-              .svg-checkbox:active{
-                    fill: #F4F4FD;
-              }
+
 
                  .input-in-icon{
                     position: relative;
@@ -1018,20 +1014,10 @@
 
 
 
-                   .window-h{
-                    font-size: 16px;
-                   }
+                     
                      
    
-                                h1,
-                                h2,
-                                h3,
-                                h4,
-                                h5,
-                                h6,
-                                p {
-                                    margin: 0;
-                                }
+                         
                        
           
                     
