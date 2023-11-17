@@ -681,10 +681,25 @@
             flex-direction: column;
         }
         
+       .forms{
+            margin-left: auto;
+        }
 
-        h1 h2 h3 h4 h5 h6 p {
-            margin: 0%;
-      }
+     .div-portfolio{
+        padding: 32px 16px;
+           
+            border-top: none;
+     }
+
+          h1,
+          h2,
+          h3,
+          h4, 
+          h5,
+          h6,
+          p {
+              margin: 0;
+          } 
 
       title{
         margin-left: auto;
