@@ -867,8 +867,12 @@
                     background-color:#404bbf;
                     border: none;
                     fill: var(--color2);
+                    
                 }
-
+ 
+              .svg-checkbox:active{
+                    fill: #F4F4FD;
+              }
 
                  .input-in-icon{
                     position: relative;
