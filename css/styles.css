@@ -807,7 +807,10 @@
 
          }
 
-
+         
+         .span-checkbox:checked{
+            fill: #F4F4FD;
+         }
 
          .butonn-registration:hover{
             background-color: #404bbf;
@@ -867,6 +870,7 @@
                     background-color:#404bbf;
                     border: none;
                     fill: var(--color2);
+                    background-image: url(../images/icon-vector.svg);
                 }
 
 
